@@ -1,0 +1,28 @@
+date&time;user_mail;action
+2022-11-16 14:06:45.539498;test@test.com;Create user
+2022-11-16 14:07:29.832443;test2@test.com;Create user
+2022-11-16 14:07:58.928241;test2@test.com;connexion
+2022-11-16 14:08:20.145653;test2@test.com;wallet -10
+2022-11-16 14:08:20.145930;test@test.com;wallet 10
+2022-11-16 14:13:04.266552;test5@test.com;Create user
+2022-11-16 14:13:12.279779;test@test.com;connexion
+2022-11-16 14:15:07.950520;test@test.com;connexion
+2022-11-16 14:15:38.347160;test@test.com;connexion
+2022-11-16 14:17:55.558928;test7@test.com;Create user
+2022-11-16 14:19:01.864166;test8@test.com;Create user
+2022-11-16 14:21:48.776111;test@test.com;connexion
+2022-11-16 14:21:51.112832;test@test.com;disconnexion
+2022-11-16 14:24:58.603418;test@test.com;connexion
+2022-11-16 14:26:36.890380;test@test.com;connexion
+2022-11-16 14:26:52.088384;test@test.com;wallet -10
+2022-11-16 14:26:52.092642;test2@test.com;wallet 10
+2022-11-16 14:27:19.994525;test@test.com;disconnexion
+2022-11-16 14:29:45.763565;test@test.com;connexion
+2022-11-16 14:29:51.219412;test@test.com;disconnexion
+2022-11-16 14:30:01.013005;test@test.com;connexion
+2022-11-16 14:30:30.976004;test@test.com;connexion
+2022-11-16 14:31:08.404706;test@test.com;wallet -10
+2022-11-16 14:31:08.407876;test2@test.com;wallet 10
+2022-11-16 14:31:24.585370;test@test.com;wallet -10
+2022-11-16 14:31:24.588560;test2@test.com;wallet 10
+2022-11-16 14:31:32.585487;test@test.com;disconnexion
